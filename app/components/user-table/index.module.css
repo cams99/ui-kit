@@ -1,0 +1,19 @@
+.user-table__status-tag {
+  padding: 2px 10px;
+}
+.user-table__status-dot {
+  display: inline-block;
+  margin-right: 8px;
+  width: 8px;
+  height: 8px;
+  border-radius: 99px;
+}
+.user-table__status-dot--active {
+  background-color: #35ca5a;
+}
+.user-table__status-dot--inactive {
+  background-color: #64789b;
+}
+.user-table__add-btn {
+  text-align: right;
+}

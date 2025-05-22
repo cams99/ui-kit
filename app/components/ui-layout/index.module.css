@@ -1,0 +1,8 @@
+.ui-layout__root {
+  min-height: 100vh;
+}
+.ui-layout__content {
+  margin: 24px;
+  padding: 16px 12px;
+  border-radius: 24px;
+}
